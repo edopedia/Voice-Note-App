@@ -13,9 +13,9 @@ This app uses the Web Speech API to build a voice powered note app to do 3 thing
 
 ### Important Links
 
-Read Step-by-Step Tutorial: [JavaScript Speech to Text and Text to Speech Note Taking App](https://www.edopedia.com/blog/javascript-speech-to-text-and-text-to-speech-note-taking-app/)
+__Read Step-by-Step Tutorial:__ [JavaScript Speech to Text and Text to Speech Note Taking App](https://www.edopedia.com/blog/javascript-speech-to-text-and-text-to-speech-note-taking-app/)
 
-Live Demo: [Voice Note App](https://www.edopedia.com/demo/voice-note-app/) - __Best Used with Google Chrome__
+__Live Demo:__ [Voice Note App](https://www.edopedia.com/demo/voice-note-app/) - __Best Used with Google Chrome__
 
 ----
 

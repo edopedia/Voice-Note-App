@@ -1,5 +1,5 @@
 ## Voice Note App
-### Converting from Speech to Text with JavaScript
+### Converting from Speech to Text and Text to Speech using JavaScript
 
 The purpose of this app is to experiment with the Web Speech API which enables you to incorporate voice data into web apps. The Web Speech API has two parts: SpeechSynthesis (Text-to-Speech), and SpeechRecognition (Asynchronous Speech Recognition.)
 

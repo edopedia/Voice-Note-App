@@ -15,7 +15,7 @@ This app uses the Web Speech API to build a voice powered note app to do 3 thing
 
 Read Step-by-Step Tutorial: [JavaScript Speech to Text and Text to Speech Note Taking App](https://www.edopedia.com/blog/javascript-speech-to-text-and-text-to-speech-note-taking-app/)
 
-Live Demo: [Voice Note App](https://www.edopedia.com/demo/voice-note-app/) - __Best Used with Chrome__
+Live Demo: [Voice Note App](https://www.edopedia.com/demo/voice-note-app/) - __Best Used with Google Chrome__
 
 ----
 
@@ -25,7 +25,7 @@ Live Demo: [Voice Note App](https://www.edopedia.com/demo/voice-note-app/) - __B
 __Project Status - Completed: 05/31/2018__
 
 
-__Note:__ On Chrome, using Speech Recognition on a web page involves a server-based recognition engine. Your audio is sent to a web service for recognition processing, so it won't work offline.
+__Note:__ On Google Chrome, using Speech Recognition on a web page involves a server-based recognition engine. Your audio is sent to a web service for recognition processing, so it won't work offline.
 <br>
 
 Most APIs that require user permission don't work on non-secure hosts. Make sure you are serving your Web Speech apps over HTTPS.

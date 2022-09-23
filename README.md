@@ -9,15 +9,21 @@ This app uses the Web Speech API to build a voice powered note app to do 3 thing
  - Save voice notes to localStorage.
  - Display all of the saved notes and give the option to either Listen to the Notes or delete them.
 
+----
 
+### Important Links
 
+Read Step-by-Step Tutorial: [JavaScript Speech to Text and Text to Speech Note Taking App](https://www.edopedia.com/blog/javascript-speech-to-text-and-text-to-speech-note-taking-app/)
+
+Live Demo: [Voice Note App](https://www.edopedia.com/demo/voice-note-app/) - __Best Used with Chrome__
+
+----
 
 ![Voice Note App](assets/img/vna-1.gif)
 <br>
 
 __Project Status - Completed: 05/31/2018__
 
-[Demo - Click Here](https://www.dkmitt.com/mycoding/voice-note-app/index.html) - __Best Used with Chrome__
 
 __Note:__ On Chrome, using Speech Recognition on a web page involves a server-based recognition engine. Your audio is sent to a web service for recognition processing, so it won't work offline.
 <br>
@@ -97,18 +103,6 @@ Description of website technologies used to develop this app.
 
 ----
 
-
-[Demo - Click Here](https://www.dkmitt.com/mycoding/voice-note-app/index.html) - __Best Used with Chrome__
-
-__Note:__ On Chrome, using Speech Recognition on a web page involves a server-based recognition engine. Your audio is sent to a web service for recognition processing, so it won't work offline.
-<br>
-
-Most APIs that require user permission don't work on non-secure hosts. Make sure you are serving your Web Speech apps over HTTPS.
-<br>
-
-
-----
-
 ### File and Directory Structure
 
 ```
@@ -143,15 +137,6 @@ Most APIs that require user permission don't work on non-secure hosts. Make sure
 
 ----
 
-
-### Resources
-
-Article from [tutorialzine Converting from Speech to Text with JavaScript](https://tutorialzine.com/2017/08/converting-from-speech-to-text-with-javascript) using HTML, CSS, [jQuery](https://jquery.com/), JavaScript, and [Shoelace.css](https://shoelace.style/index.html) a lightweight, forward-thinking CSS library built with future CSS syntax.
- 
-Reference how to work with the Web Speech API - [MDN Web Docs Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
-<br>
-
-----
 
 ### Revision History 
 

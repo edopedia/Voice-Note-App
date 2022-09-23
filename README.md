@@ -1,6 +1,9 @@
 ## Voice Note App
 ### Converting from Speech to Text and Text to Speech using JavaScript
 
+![Voice Note App](assets/img/vna-1.gif)
+<br>
+
 The purpose of this app is to experiment with the Web Speech API which enables you to incorporate voice data into web apps. The Web Speech API has two parts: SpeechSynthesis (Text-to-Speech), and SpeechRecognition (Asynchronous Speech Recognition.)
 
 This app uses the Web Speech API to build a voice powered note app to do 3 things:
@@ -19,8 +22,7 @@ __Live Demo: [Voice Note App](https://www.edopedia.com/demo/voice-note-app/)__ -
 
 ----
 
-![Voice Note App](assets/img/vna-1.gif)
-<br>
+
 
 __Project Status - Completed: 05/31/2018__
 
